@@ -1,0 +1,29 @@
+.nav-link{
+	font-size:20px;
+	font-family: bold;
+}
+.navbar-toggler{
+	background-color:red;
+}
+#topcontainer{
+  text-align: center;
+  padding: 16%;
+  font-family: 'New Tegomin', serif;
+  background-image: url("https://images.unsplash.com/photo-1565514158740-064f34bd6cfd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+}
+.special{
+        color: #fff;
+	font-size: 20px;
+	margin:20px;
+
+}
+.last{
+	text-align: center;
+	padding: 50px 0px;
+	background-color: #84a9ac;
+
+}
+#logo img{
+    height: 59px;
+    margin: 3px 6px;
+}
