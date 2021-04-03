@@ -2,6 +2,10 @@ body{
   background-color:#91876d;
 }
 
+.nav-link{
+	font-size:20px;
+	font-family: bold;
+}
   .navbar-toggler{
   	background-color:red;
   }
